@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eric Moreira</h1>
-<h3 align="center">Infrastructure expert and young developer.</h3>
+<h3 align="center">Sysadmin - Infrastructure Specialist and Young Developer.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
