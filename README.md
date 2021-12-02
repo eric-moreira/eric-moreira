@@ -5,6 +5,11 @@
 <p align="left">
 <a href="https://www.hackerrank.com/eric_ufjf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="eric_ufjf" height="30" width="40" /></a>
 </p>
+Here we follow the Fourth Commandments of Sysadmin:
+I. Thou shalt make regular and complete backups
+II. Thou shalt establish absolute trust in thy servers
+III. Thou shalt be the first to know when something goes down
+IV. Thou shalt keep server logs on everything
 
 <img align="right" src="walking-code.gif"/>
 <h3 align="left">Languages and Tools:</h3>
