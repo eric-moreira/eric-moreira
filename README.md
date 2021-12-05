@@ -52,7 +52,7 @@ IV. Thou shalt keep server logs on everything <br/>
 
 </p>
 
-<img align="center" width="450" height="450" align="center" src="https://pbs.twimg.com/media/Dp-53EhWwAEqqur.jpg" />
+<p align="center"><img align="center" width="450" height="450" align="center" src="https://pbs.twimg.com/media/Dp-53EhWwAEqqur.jpg" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eric-moreira&show_icons=true&locale=en&layout=compact" alt="eric-moreira" /></p>
 
