@@ -17,6 +17,12 @@ IV. Thou shalt keep server logs on everything <br/>
 <p align="left">
 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <br/>
+  
+<h2 align="left"> Distros </h2>
+<a href="https://redhat.com/" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Favadirect-freedomusainc1.netdna-ssl.com%2Fpictures%2Fbig%2FRH0155783.png&f=1&nofb=1" alt="redhat" width="40" height="40"/> </a>
+<a href="https://www.debian.org/" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn0.iconfinder.com%2Fdata%2Ficons%2Fflat-round-system%2F512%2Fdebian-512.png&f=1&nofb=1" alt="debian" width="40" height="40"/> </a>
+<a href="https://www.centos.org/" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.RuprMJ1uM0RVsOM6AWoZeQHaHa%26pid%3DApi&f=1" alt="centos" width="40" height="40"/> </a>
+<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.designbust.com%2Fdownload%2F29%2Fpng%2Fubuntu_logo_icon512.png&f=1&nofb=1" alt="ubuntu" width="40" height="40"/> </a> 
 
 <h2 align="left"> Cloud </h2>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <br/>
@@ -48,7 +54,7 @@ IV. Thou shalt keep server logs on everything <br/>
 
 <img width="450" height="450" align="center" src="https://pbs.twimg.com/media/Dp-53EhWwAEqqur.jpg" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eric-moreira&show_icons=true&locale=en&layout=compact" alt="eric-moreira" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eric-moreira&show_icons=true&locale=en&layout=compact" alt="eric-moreira" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eric-moreira&show_icons=true&locale=en" alt="eric-moreira" /></p>
 
