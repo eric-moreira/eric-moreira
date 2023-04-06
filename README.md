@@ -3,10 +3,9 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Eric - Sysadmin and Backend Developer</title>
 </head>
 <body>
-  <h1>Resume - Eric</h1>
+  <h1>Eric - Sysadmin and Backend Developer</h1>
   
   <h2>Skills</h2>
   <ul>
@@ -18,7 +17,7 @@
     <li>Databases</li>
     <li>Java - Intermediate</li>
     <li>Python - Intermediate</li>
-    <li>Basic C#</li>
+    <li>C# - Basic</li>
   </ul>
   
   <h2>Experience</h2>
@@ -28,7 +27,7 @@
   </ul>
 
   <h2>IT Humor</h2>
-  <img src="https://media.giphy.com/media/6U7nIaGMIIlDO/giphy.gif" alt="IT Humor">
+  <img src="https://media.giphy.com/media/3og0ICG4WxdKSRzE3K/giphy.gif" alt="IT Humor">
   
   <h2>Most Used Languages</h2>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eric-moreira&show_icons=true&locale=en&layout=compact" alt="eric-moreira" /></p>
