@@ -26,6 +26,11 @@
     <li>Rapidseedbox - Sysadmin - From 2021 to 2022</li>
     <li>Elements.tv - Technical Support - From 2022 to Present</li>
   </ul>
+  <h2>Education</h2>
+  <ul>
+    <li>Bachelor in Cinema and Audiovisual from Universidade Federal de Juiz de Fora - 2019</li>
+    <li>Bachelor in Software Development from Universidade Cruzeiro do Sul - 2013</li>
+  </ul>
 
   <h2>IT Humor</h2>
   <img src="https://media.giphy.com/media/3og0ICG4WxdKSRzE3K/giphy.gif" alt="IT Humor">
