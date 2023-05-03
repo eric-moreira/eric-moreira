@@ -14,10 +14,9 @@
     <li>Servers</li>
     <li>Docker</li>
     <li>Nginx</li>
-    <li>Databases</li>
-    <li>Java - Intermediate</li>
-    <li>Python - Intermediate</li>
-    <li>C# - Basic</li>
+    <li>Java </li>
+    <li>Python </li>
+    <li>C#</li>
   </ul>
   
   <h2>Experience</h2>
