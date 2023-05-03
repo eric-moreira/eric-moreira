@@ -28,7 +28,7 @@
   <h2>Education</h2>
   <ul>
     <li>Bachelor in Cinema and Audiovisual from Universidade Federal de Juiz de Fora - 2019</li>
-    <li>Bachelor in Software Development from Universidade Cruzeiro do Sul - 2013</li>
+    <li>Bachelor in Software Development from Universidade Cruzeiro do Sul - 2023</li>
   </ul>
 
   <h2>IT Humor</h2>
