@@ -12,7 +12,7 @@
     <li>Sysadmin</li>
     <li>Linux</li>
     <li>Servers</li>
-    <li>Rust</li> - Currently Focusing*
+    <li>Rust - **Currently Focusing**</li>
     <li>Docker</li>
     <li>K8s</li>
     <li>Nginx</li>
