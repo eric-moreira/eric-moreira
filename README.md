@@ -12,7 +12,9 @@
     <li>Sysadmin</li>
     <li>Linux</li>
     <li>Servers</li>
+    <li>Rust</li> - Currently Focusing*
     <li>Docker</li>
+    <li>K8s</li>
     <li>Nginx</li>
     <li>Java </li>
     <li>Python </li>
