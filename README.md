@@ -5,18 +5,26 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-  <h1>Eric - Sysadmin and Backend Developer</h1>
+  <h1>Eric - Linux Engineer / Systems Programming / Backend Developer</h1>
   
   <h2>Skills</h2>
   <ul>
     <li>Software Engineer / Infrastructure Specialist </li>
+    <li>C/C++</li>
     <li>Rust</li>
     <li>Golang </li>
     <li>Docker</li>
     <li>K8s</li>
     <li>Python</li>
+    <li>Assembly Essentials</li>
   </ul>
-  
+
+  <h2>Main Interests</h2>
+  <ul>
+    <li>Systems Programming</li>
+    <li>Kernel Development</li>
+    <li>Low Level</li>
+  </ul>
   <h2>Experience</h2>
   <ul>
     <li>Independent Contract - Sysadmin/Infrastructure/Network - From 2012 to 2021</li>
