@@ -37,8 +37,5 @@
     <li>Bachelor in Software Development from Universidade Cruzeiro do Sul - 2023</li>
     <li>Computer Engineering from Faculdade Anhembi Morumbi - São Paulo (studying)</li>
   </ul>
-  
-  <h2>Most Used Languages</h2>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eric-moreira&show_icons=true&locale=en&layout=compact" alt="eric-moreira" /></p>
 </body>
 </html>
