@@ -18,7 +18,8 @@
     <li>Python</li>
     <li>Assembly Essentials</li>
   </ul>
-
+  <h2>About Me</h2>
+    <p>I'm passionate about systems programming and getting as close to the hardware as possible. I have solid experience in C, Assembly, Python, and Rust, and I enjoy working on everything from bootloaders to drivers and operating systems. I'm driven by a deep curiosity to understand how things work under the hood, peeling back layers of abstraction. I study thoroughly and enjoy challenging myself with low-level projects that demand full system control.</p>
   <h2>Main Interests</h2>
   <ul>
     <li>Systems Programming</li>
