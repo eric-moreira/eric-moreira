@@ -34,9 +34,11 @@
   </ul>
   <h2>Education</h2>
   <ul>
+    <li>Technology High School - Federal Institute of Technology - Campus Juiz de Fora - 2009 - 2011</li>
+    <li>Bachelor in Arts and Design from Universidade Federal de Juiz de Fora - 2014</li>
     <li>Bachelor in Cinema and Audiovisual from Universidade Federal de Juiz de Fora - 2019</li>
-    <li>Bachelor in Software Development from Universidade Cruzeiro do Sul - 2023</li>
-    <li>Computer Engineering from Faculdade Anhembi Morumbi - São Paulo (studying)</li>
+    <li>Technology Degree in Software Engineering from Universidade Cruzeiro do Sul - 2023</li>
+    <li>Computer Engineering from Faculdade Anhembi Morumbi - São Paulo (currently studying)</li>
   </ul>
 </body>
 </html>
