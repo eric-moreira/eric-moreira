@@ -6,7 +6,8 @@
 </head>
 <body>
   <h1>Eric - Linux Engineer / Systems Programming / Backend Developer</h1>
-  
+  <h2>Contact: </h2>
+  <ul><li>email: e_moreira@disroot.org</li></ul>
   <h2>Skills</h2>
   <ul>
     <li>Software Engineer / Infrastructure Specialist </li>
