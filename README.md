@@ -41,5 +41,10 @@
     <li>Technology Degree in Software Engineering from Universidade Cruzeiro do Sul - 2023</li>
     <li>Computer Engineering from Faculdade Anhembi Morumbi - São Paulo (currently studying)</li>
   </ul>
+  <h2>Portfolio</h2>
+  <ul>
+    <li><a href="https://github.com/eric-moreira/netscan/tree/main" target="_blank">Netscan</a> - Network Scanner / NMAP-like written in C</li>
+    <li><a href="https://github.com/eric-moreira/TinySH" target="_blank">TinySH</a> - Minimalist UNIX Shell written in C</li>
+  </ul>
 </body>
 </html>
