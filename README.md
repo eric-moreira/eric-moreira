@@ -29,7 +29,7 @@
   </ul>
   <h2>Experience</h2>
   <ul>
-    <li>Independent Contract - Sysadmin/Infrastructure/Network - From 2012 to 2021</li>
+    <li>Independent Contractor - Linux Specialist - Since 2012</li>
     <li>Rapidseedbox - Sysadmin - From 2021 to 2022</li>
     <li>Elements.tv - Technical Support Engineer and Software Integration Engineer - From 2022 to Present</li>
   </ul>
