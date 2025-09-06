@@ -26,6 +26,7 @@
     <li>Systems Programming</li>
     <li>Kernel Development</li>
     <li>Low Level</li>
+    <li>Backend Development</li>
   </ul>
   <h2>Experience</h2>
   <ul>
